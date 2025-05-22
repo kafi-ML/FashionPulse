@@ -1,0 +1,7 @@
+playwright
+pandas
+tqdm
+numpy
+matplotlib
+seaborn
+scikit-learn
