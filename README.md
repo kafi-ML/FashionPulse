@@ -66,12 +66,12 @@ fashionpulse/
 ---
 
 ## 🧑‍💻 Author
-**[Your Name]** – AI + Data Scraping Enthusiast  
-📫 [your email] | 🌐 [your LinkedIn or portfolio link]
+**Abdullah Al Kafi** – AI + Data Scraping Enthusiast  
+📫 kafi.official333@gmail.com | 🌐 https://www.linkedin.com/in/abdullah-al-kafi-eng/
 
 ---
 
 ## 🎯 Status
-> Project is in progress as a showcase for AI Engineer role at Nitex.  
+> This project is still in progess.  
 > Focused on blending style, tech, and culture into code.
 
