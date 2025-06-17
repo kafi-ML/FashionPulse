@@ -47,21 +47,8 @@ This project was inspired by the Nitex job posting, which called for building in
 
 ---
 
-## 📁 Folder Structure
-fashionpulse/
-├── scraper/ # Web scraping logic
-├── ml_models/ # Image + text classification models
-├── api/ # FastAPI backend
-├── dashboard/ # Streamlit frontend
-├── data/ # Cleaned datasets
-├── utils/ # Helper scripts for preprocessing
-└── README.md
 
 
----
-
-## ✨ Screenshots (optional)
-*Include visuals from your dashboard or CLI if possible*
 
 ---
 
