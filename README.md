@@ -1,5 +1,6 @@
 # 👗 FashionPulse – AI-Powered Fashion Trend Tracker
 
+
 FashionPulse is a demo project built to reflect real-world responsibilities of an AI Engineer at Nitex. It scrapes fashion data from global e-commerce platforms, analyzes visual and textual features using AI, and predicts emerging style trends across categories and seasons.
 
 ### 🚀 Why This Project?
