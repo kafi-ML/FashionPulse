@@ -6,6 +6,7 @@ FashionPulse is a demo project built to reflect real-world responsibilities of a
 ### 🚀 Why This Project?
 This project was inspired by the Nitex job posting, which called for building intelligent systems that turn raw, chaotic fashion data into structured, trend-driven intelligence. FashionPulse is my response—demonstrating scraping, ML, image understanding, and deployment, all in one pipeline.
 
+
 ---
 
 ## 🔍 Features
